@@ -4,8 +4,6 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=PolarBear4u" />
 </p>
 
-<br />
-
 <h3 align="left">Python, C++ and Java developer with many private repos xD</h3>
 
 **About me**
