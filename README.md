@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in: coding, cgi, anime, basketball, piano, guitar
 - 🌱 I’m currently learning: opengl, machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on: discord-bot (private repo xD)
 - 📫 How to reach me: PolarBear4u#7025 (Discord)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PolarBear4u&count_private=true&show_icons=true" /></p>
