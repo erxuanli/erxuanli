@@ -9,7 +9,7 @@
 
 </a>
 <a href="https://discord.gg/gFJzrB5NqW">
-  <img align="left" alt="PolarBear4u's Discord Server" width="21px" />
+  <img align="left" alt="PolarBear4u's Discord Server" width="21px" src="https://raw.githubusercontent.com/PolarBear4u/PolarBear4u/main/assets/discord-round.svg" />
 </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PolarBear4u&count_private=true&show_icons=true" /></p>
