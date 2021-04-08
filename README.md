@@ -7,6 +7,11 @@
 - 💞️ I’m looking to collaborate on: discord-bot (private repo xD)
 - 📫 How to reach me: PolarBear4u#7025 (Discord)
 
+</a>
+<a href="https://discord.gg/gFJzrB5NqW">
+  <img align="left" alt="PolarBear4u's Discord Server" width="21px" />
+</a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PolarBear4u&count_private=true&show_icons=true" /></p>
 
 
