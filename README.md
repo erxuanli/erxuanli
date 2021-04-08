@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I’m @PolarBear4u</h1>
 
 <p>
-  <img align="left" src="https://komarev.com/ghpvc/?username=PolarBear4u" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=PolarBear4u&color=green" />
 </p>
 
 <br />
