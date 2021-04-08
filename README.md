@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolarBear4u
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolarBear4u&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=PolarBear4u&count_private=true&show_icons=true)]
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
