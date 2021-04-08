@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in: coding, cgi, anime, basketball, piano, guitar
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning: opengl, machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: PolarBear4u#7025 (Discord)
 
