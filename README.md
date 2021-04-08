@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m @PolarBear4u</h1>
+<h3 align="center">Python and C++ developer with many private repos xD</h3>
 
 - 👀 I’m interested in: coding, cgi, anime, basketball, piano, guitar
 - 🌱 I’m currently learning ...
