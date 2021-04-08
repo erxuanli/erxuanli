@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m @PolarBear4u</h1>
-<h3 align="center">Python, C++ and Java developer with many private repos xD</h3>
+<h1 align="left">👋 Hi, I’m @PolarBear4u</h1>
+<h3 align="left">Python, C++ and Java developer with many private repos xD</h3>
 
 **About me**
 - 👀 I’m interested in: coding, cgi, anime, basketball, piano, guitar
@@ -10,7 +10,7 @@
 **For contact you can also join my discord server:**
 </a>
 <a href="https://discord.gg/gFJzrB5NqW">
-  <img align="left" alt="PolarBear4u's Discord Server" width="21px" src="https://raw.githubusercontent.com/PolarBear4u/PolarBear4u/main/assets/discord-round.svg" />
+  <img align="center" alt="PolarBear4u's Discord Server" width="21px" src="https://raw.githubusercontent.com/PolarBear4u/PolarBear4u/main/assets/discord-round.svg" />
 </a>
 
 <br />
