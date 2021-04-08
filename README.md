@@ -1,4 +1,4 @@
-👋 Hi, I’m @PolarBear4u
+<h1 align="center">👋 Hi, I’m @PolarBear4u</h1>
 
 - 👀 I’m interested in: coding, cgi, anime, basketball, piano, guitar
 - 🌱 I’m currently learning ...
