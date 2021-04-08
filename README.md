@@ -10,7 +10,7 @@
 **For contact you can also join my discord server:**
 </a>
 <a href="https://discord.gg/gFJzrB5NqW">
-  <img align="right" alt="PolarBear4u's Discord Server" width="21px" src="https://raw.githubusercontent.com/PolarBear4u/PolarBear4u/main/assets/discord-round.svg" />
+  <img align="center" alt="PolarBear4u's Discord Server" width="21px" src="https://raw.githubusercontent.com/PolarBear4u/PolarBear4u/main/assets/discord-round.svg" />
 </a>
 
 <br />
