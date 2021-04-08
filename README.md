@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolarBear4u
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PolarBear4u&count_private=true&show_icons=true" /></p>
 
-[(https://github-readme-stats.vercel.app/api?username=PolarBear4u&count_private=true&show_icons=true)]
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
