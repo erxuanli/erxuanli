@@ -9,7 +9,7 @@
 
 **For contact you can also join my discord server:**
 </a>
-<a href="https://discord.gg/gFJzrB5NqW">
+<a href="https://discord.gg/VZr36x8X9N">
   <img align="center" alt="PolarBear4u's Discord Server" width="21px" src="https://raw.githubusercontent.com/PolarBear4u/PolarBear4u/main/assets/discord-round.svg" />
 </a>
 
