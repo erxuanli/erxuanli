@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @PolarBear4u</h1>
 <h3 align="center">Python, C++ and Java developer with many private repos xD</h3>
 
-About me
+**About me**
 - 👀 I’m interested in: coding, cgi, anime, basketball, piano, guitar
 - 🌱 I’m currently learning: opengl, machine learning
 - 💞️ I’m looking to collaborate on: discord-bot (private repo xD)
