@@ -6,7 +6,7 @@
 
 <br />
 
-<h3 align="left">Python, Dart, Java and C++ Developer</h3>
+<!-- <h3 align="left">Python, Dart, Java and C++ Developer</h3> -->
 
 <!-- **About me**
 - 👀 I’m interested in: coding, cgi, anime, basketball, piano, guitar
