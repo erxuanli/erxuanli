@@ -6,19 +6,19 @@
 
 <br />
 
-<h3 align="left">Python, C++ and Java developer with many private repos xD</h3>
+<h3 align="left">Python, Dart, Java and C++ Developer</h3>
 
-**About me**
+<!-- **About me**
 - 👀 I’m interested in: coding, cgi, anime, basketball, piano, guitar
 - 🌱 I’m currently learning: opengl, machine learning
 - 💞️ I’m looking to collaborate on: discord-bot (private repo xD)
-- 📫 How to reach me: PolarBear4u#7025 (Discord)
+- 📫 How to reach me: PolarBear4u#7025 (Discord) -->
 
-**For contact you can also join my discord server:**
+<!-- **For contact you can also join my discord server:**
 </a>
   <a href="https://discord.gg/XVpP739fZ5">
   <img align="center" alt="PolarBear4u's Discord Server" width="21px" src="https://raw.githubusercontent.com/PolarBear4u/PolarBear4u/main/assets/discord-round.svg" />
-</a>
+</a> -->
 
 <br />
 
